@@ -80,12 +80,15 @@ Recent transactions list with icons, names, and amounts.
 Subtexts like "Entertainment", "Music", and "Transaction" aligned under their respective items.
 
 # Screens![Screenshot (91)](https://github.com/Zheena26/rn-assignment5-11328068/ass!
-[Scr![Screenshot (92)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/231a2328-f123-4e7e-bdbd-7960d598ba13)
+![Screenshot (92)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/231a2328-f123-4e7e-bdbd-7960d598ba13)
 ![Screens![Screenshot (95)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/bdca5921-2b01-4cfd-82ee-8b258bcd464e)
-hot (88)](https://github.com/Zheena26/rn-assignment5-11328068
 ![Screenshot (90)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/29be7afc-752c-42c7-acc9-700c5d8e84cf)
-/assets/169994345/5807f591-4f83-4fca-a0ee-666afc8b2ef3)
 ![Screenshot (89)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/2771eb94-fd1e-4161-97b7-2a6d6f5510a8)
+![Screenshot (88)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/cee9b46c-29a3-4898-9efd-cf4d1df2140b)
+![Screenshot (91)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/35b83fc0-26d5-4eef-b840-f2a20fd050f2)
+![Screenshot (94)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/5e36736c-c148-421c-819d-5d60fea092d6)
+![Screenshot (93)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/9e1d4d97-7679-4ca2-ab7e-5d1599115c00)
+
 
 
 # Contributing
