@@ -79,7 +79,7 @@ Four main feature buttons: Send, Receive, Loan, Topup.
 Recent transactions list with icons, names, and amounts.
 Subtexts like "Entertainment", "Music", and "Transaction" aligned under their respective items.
 
-# Screens![Screenshot (91)](https://github.com/Zheena26/rn-assignment5-11328068/ass!
+# Screenshots
 ![Screenshot (92)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/231a2328-f123-4e7e-bdbd-7960d598ba13)
 ![Screenshot (95)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/bdca5921-2b01-4cfd-82ee-8b258bcd464e)
 ![Screenshot (90)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/29be7afc-752c-42c7-acc9-700c5d8e84cf)
