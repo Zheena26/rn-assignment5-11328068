@@ -25,8 +25,11 @@ Clone the repository:
 # bash
 Copy code
 git clone https://github.com/Zheena26/rn-assignment5-11328068.git
-cd MyTheme 
 Install dependencies:
+cd MyTheme
+run npm run web for web
+npm run android for android
+npm run IOS for Mac
 
 # bash
 Copy code
@@ -76,7 +79,16 @@ Four main feature buttons: Send, Receive, Loan, Topup.
 Recent transactions list with icons, names, and amounts.
 Subtexts like "Entertainment", "Music", and "Transaction" aligned under their respective items.
 
-# Screenshots
+# Screens![Screenshot (91)](https://github.com/Zheena26/rn-assignment5-11328068/ass!
+[Scr![Screenshot (92)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/231a2328-f123-4e7e-bdbd-7960d598ba13)
+eenshot (94)](https://github.com/Zheena26/rn-assignment5-11328068/a![Screenshot (93)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/cf673ef1-d7e8-4cd0-8329-b9dcaf52b20e)
+ssets/169994345/175f82ae-3112-43e8-bace-c4bbf1501a0f)
+ets/169994345/b2d36a6a-a452-4201-be04-0a622e39b5b3)
+hots
+![Screens![Screenshot (95)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/bdca5921-2b01-4cfd-82ee-8b258bcd464e)
+hot (88)](https://github.com/Zheena26/rn-assignment5-11328068![Screenshot (90)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/29be7afc-752c-42c7-acc9-700c5d8e84cf)
+/assets/169994345/5807f591-4f83-4fca-a0ee-666afc8b2ef3)
+![Screenshot (89)](https://github.com/Zheena26/rn-assignment5-11328068/assets/169994345/2771eb94-fd1e-4161-97b7-2a6d6f5510a8)
 
 
 # Contributing
